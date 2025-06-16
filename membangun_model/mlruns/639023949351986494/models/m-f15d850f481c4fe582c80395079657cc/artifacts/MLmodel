@@ -1,0 +1,22 @@
+artifact_path: file:A:/Akbar/Experience/Accepted/2025/Laskar AI/Submission/dikerjakan/palmer_penguins_classification/membangun_model/mlruns/639023949351986494/models/m-f15d850f481c4fe582c80395079657cc/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.2
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.0
+mlflow_version: 3.1.0
+model_id: m-f15d850f481c4fe582c80395079657cc
+model_size_bytes: 263443
+model_uuid: m-f15d850f481c4fe582c80395079657cc
+prompts: null
+run_id: 3d55e1d1cb804fcbacf5d63b1630cc0f
+utc_time_created: '2025-06-15 14:02:13.894848'

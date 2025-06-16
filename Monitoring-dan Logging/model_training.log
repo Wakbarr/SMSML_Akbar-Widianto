@@ -1,0 +1,18 @@
+2025-06-16 08:51:11,913 - INFO - Starting Palmer Penguins Classification Model Training
+2025-06-16 08:51:11,916 - INFO - Data loaded successfully. Shape: (333, 12)
+2025-06-16 08:51:11,917 - INFO - Features shape: (333, 6)
+2025-06-16 08:51:11,917 - INFO - Target shape: (333,)
+2025-06-16 08:51:11,918 - INFO - Target distribution: {0: 146, 2: 119, 1: 68}
+2025-06-16 08:51:11,920 - INFO - Train set shape: (266, 6)
+2025-06-16 08:51:11,920 - INFO - Test set shape: (67, 6)
+2025-06-16 08:51:12,747 - INFO - Training Random_Forest...
+2025-06-16 08:51:20,657 - INFO - Random_Forest - Accuracy: 0.9851
+2025-06-16 08:51:20,764 - INFO - Training Logistic_Regression...
+2025-06-16 08:51:27,178 - INFO - Logistic_Regression - Accuracy: 1.0000
+2025-06-16 08:51:27,288 - INFO - Training SVM...
+2025-06-16 08:51:33,925 - INFO - SVM - Accuracy: 1.0000
+2025-06-16 08:51:33,932 - INFO - 
+Best Model: Logistic_Regression
+2025-06-16 08:51:33,932 - INFO - Best Accuracy: 1.0000
+2025-06-16 08:51:33,933 - INFO - Model training completed successfully!
+2025-06-16 08:51:33,933 - INFO - Check MLflow UI at: http://localhost:5000

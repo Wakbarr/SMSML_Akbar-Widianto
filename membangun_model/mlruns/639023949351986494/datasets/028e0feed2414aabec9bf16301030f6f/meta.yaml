@@ -1,0 +1,12 @@
+digest: 4d3d18d6
+name: dataset
+profile: '{"num_rows": 67, "num_elements": 402}'
+schema: '{"mlflow_colspec": [{"type": "double", "name": "bill_length_mm", "required":
+  true}, {"type": "double", "name": "bill_depth_mm", "required": true}, {"type": "double",
+  "name": "flipper_length_mm", "required": true}, {"type": "double", "name": "body_mass_g",
+  "required": true}, {"type": "long", "name": "island_encoded", "required": true},
+  {"type": "long", "name": "sex_encoded", "required": true}]}'
+source: '{"tags": {"mlflow.user": "wdnto", "mlflow.source.name": "A:\\Akbar\\Experience\\Accepted\\2025\\Laskar
+  AI\\Submission\\dikerjakan\\palmer_penguins_classification\\membangun_model\\modelling.py",
+  "mlflow.source.type": "LOCAL", "mlflow.source.git.commit": "033c85fd06b627d4e708675e2094f93cfc73d542"}}'
+source_type: code

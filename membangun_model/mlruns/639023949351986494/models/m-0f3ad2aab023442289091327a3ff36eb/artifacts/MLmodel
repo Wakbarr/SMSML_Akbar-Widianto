@@ -1,0 +1,32 @@
+artifact_path: file:A:/Akbar/Experience/Accepted/2025/Laskar AI/Submission/dikerjakan/palmer_penguins_classification/membangun_model/mlruns/639023949351986494/models/m-0f3ad2aab023442289091327a3ff36eb/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.2
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.0
+is_signature_from_type_hint: false
+mlflow_version: 3.1.0
+model_id: m-0f3ad2aab023442289091327a3ff36eb
+model_size_bytes: 4668
+model_uuid: m-0f3ad2aab023442289091327a3ff36eb
+prompts: null
+run_id: e7c5d1c7d92f4c608a47f5861ee6e607
+signature:
+  inputs: '[{"type": "double", "name": "bill_length_mm", "required": true}, {"type":
+    "double", "name": "bill_depth_mm", "required": true}, {"type": "double", "name":
+    "flipper_length_mm", "required": true}, {"type": "double", "name": "body_mass_g",
+    "required": true}, {"type": "long", "name": "island_encoded", "required": true},
+    {"type": "long", "name": "sex_encoded", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-06-15 14:02:31.915199'

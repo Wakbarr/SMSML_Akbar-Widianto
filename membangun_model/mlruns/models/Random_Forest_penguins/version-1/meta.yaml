@@ -1,0 +1,18 @@
+aliases: []
+creation_timestamp: 1749996139607
+current_stage: None
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1749996139607
+metrics: null
+model_id: m-f15d850f481c4fe582c80395079657cc
+name: Random_Forest_penguins
+params: null
+run_id: 3d55e1d1cb804fcbacf5d63b1630cc0f
+run_link: null
+source: models:/m-f15d850f481c4fe582c80395079657cc
+status: READY
+status_message: null
+storage_location: file:A:/Akbar/Experience/Accepted/2025/Laskar AI/Submission/dikerjakan/palmer_penguins_classification/membangun_model/mlruns/639023949351986494/models/m-f15d850f481c4fe582c80395079657cc/artifacts
+user_id: null
+version: 1

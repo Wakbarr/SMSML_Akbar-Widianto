@@ -1,0 +1,18 @@
+aliases: []
+creation_timestamp: 1749996163830
+current_stage: None
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1749996163830
+metrics: null
+model_id: m-1300de0aba434692b52e71e3968c8c56
+name: SVM_penguins
+params: null
+run_id: e7c5d1c7d92f4c608a47f5861ee6e607
+run_link: null
+source: models:/m-1300de0aba434692b52e71e3968c8c56
+status: READY
+status_message: null
+storage_location: file:A:/Akbar/Experience/Accepted/2025/Laskar AI/Submission/dikerjakan/palmer_penguins_classification/membangun_model/mlruns/639023949351986494/models/m-1300de0aba434692b52e71e3968c8c56/artifacts
+user_id: null
+version: 1

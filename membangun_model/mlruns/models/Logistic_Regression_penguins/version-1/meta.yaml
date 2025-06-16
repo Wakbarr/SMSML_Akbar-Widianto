@@ -1,0 +1,18 @@
+aliases: []
+creation_timestamp: 1749996151630
+current_stage: None
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1749996151630
+metrics: null
+model_id: m-6146a0678692433c9d23c8bc4d0f7220
+name: Logistic_Regression_penguins
+params: null
+run_id: 8d338bd19631431a98a5bf009d624028
+run_link: null
+source: models:/m-6146a0678692433c9d23c8bc4d0f7220
+status: READY
+status_message: null
+storage_location: file:A:/Akbar/Experience/Accepted/2025/Laskar AI/Submission/dikerjakan/palmer_penguins_classification/membangun_model/mlruns/639023949351986494/models/m-6146a0678692433c9d23c8bc4d0f7220/artifacts
+user_id: null
+version: 1

@@ -1,0 +1,14 @@
+artifact_uri: file:A:/Akbar/Experience/Accepted/2025/Laskar AI/Submission/dikerjakan/palmer_penguins_classification/membangun_model/mlruns/639023949351986494/3d55e1d1cb804fcbacf5d63b1630cc0f/artifacts
+end_time: 1749996139671
+entry_point_name: ''
+experiment_id: '639023949351986494'
+lifecycle_stage: active
+run_id: 3d55e1d1cb804fcbacf5d63b1630cc0f
+run_name: Random_Forest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749996125046
+status: 3
+tags: []
+user_id: wdnto

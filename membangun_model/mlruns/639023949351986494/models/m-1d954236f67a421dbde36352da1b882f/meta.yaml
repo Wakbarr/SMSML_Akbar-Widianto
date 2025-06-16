@@ -1,0 +1,10 @@
+artifact_location: file:A:/Akbar/Experience/Accepted/2025/Laskar AI/Submission/dikerjakan/palmer_penguins_classification/membangun_model/mlruns/639023949351986494/models/m-1d954236f67a421dbde36352da1b882f/artifacts
+creation_timestamp: 1749996125598
+experiment_id: '639023949351986494'
+last_updated_timestamp: 1749996132589
+model_id: m-1d954236f67a421dbde36352da1b882f
+model_type: null
+name: model
+source_run_id: 3d55e1d1cb804fcbacf5d63b1630cc0f
+status: 2
+status_message: null
